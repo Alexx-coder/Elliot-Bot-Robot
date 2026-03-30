@@ -108,7 +108,7 @@ class ElliotBotRobot:
         self.no_is_admin = True
         self.user_id = None
         self.admin_code = "aeDM32CdeTreu.admin"
-        self.data_version = "26.03.2026" 
+        self.data_version = "28.03.2026" 
         self.choice = None
         self.ghost = None
         self.is_ghost = False
