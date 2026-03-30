@@ -71,7 +71,7 @@ config.read(config_name)
 
 class ElliotBotRobot:
 
-    def __init__(self, name="Elliot Bot Robot", version="3.6.robot"):
+    def __init__(self, name="Elliot Bot Robot", version="4.0.robot"):
         self.name = name
         self.version = version
         self.commands = {
