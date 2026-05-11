@@ -1,0 +1,5 @@
+cryptography
+requests
+psutil
+python-whois
+pywin32
